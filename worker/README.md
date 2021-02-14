@@ -1,3 +1,3 @@
-## Worker Java App
+## Worker Java Application
 
-Create the build from Jenkins pipeline in AWS.
+File to test the hook integration with a Jenkins pipeline in AWS.
